@@ -1,0 +1,16 @@
+# Node
+node_modules
+.yarn/*
+*yarn-error.log
+
+# Editor
+.idea
+.vscode
+
+# Build
+build/**
+**/dist
+
+# Misc
+.env
+.DS_Store
